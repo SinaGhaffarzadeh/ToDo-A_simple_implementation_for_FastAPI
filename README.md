@@ -138,13 +138,3 @@ FastAPI's built-in documentation makes testing and learning super friendly.
 This version uses an **in-memory list** to store todos — meaning data is lost when the app stops. You can expand this by adding a database like SQLite, PostgreSQL, or MongoDB.
 
 ---
-
-## 📄 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
-
-- [Your Name](https://github.com/your-username)
