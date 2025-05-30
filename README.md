@@ -1,6 +1,6 @@
 # 📝 FastAPI Todo App
 
-This is a simple RESTful API built with **FastAPI** that allows users to create, retrieve, update, and delete todo items. It demonstrates basic CRUD operations and uses Pydantic for data validation.
+This is a simple REST API built with **FastAPI** that allows users to create, retrieve, update, and delete todo items.
 
 ---
 
